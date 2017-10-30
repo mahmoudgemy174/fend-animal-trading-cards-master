@@ -1,0 +1,45 @@
+/* add your CSS here */
+
+
+.Card {
+	width: 330px;
+	box-shadow: 5px 5px 5px #d3d3c9;
+	border-radius: 5px;
+	border: 1px solid #d3d3c9;
+	margin: auto;
+}
+
+.header {
+	width: 280px;
+    border: 1px solid #d3d3c9;
+    padding: 10px;
+	margin: 10px;
+}
+
+.pic {
+	margin: 10px;
+    border: 1px solid #d3d3c9;
+	width: 300px;
+	height: 200px;
+}
+
+.bottom {
+	margin:10px;
+	width: 280px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 1px solid #d3d3c9 ;
+}
+
+.fact {
+	font-style: italic;
+}
+
+.item {
+	font-weight: bold;
+}
+
+.list {
+	list-style: none;
+	padding: 0px;
+}
